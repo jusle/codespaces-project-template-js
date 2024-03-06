@@ -1,6 +1,6 @@
 {
   "name": "educator-js-codespace-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://jusle.github.io/codespaces-project-template-js",
