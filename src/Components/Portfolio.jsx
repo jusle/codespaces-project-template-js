@@ -33,31 +33,31 @@ const projectList = [
   {
     title: "ERPWare",
     description:
-      "I am working as a Product Owner in a company ERPWare.",
+      "I am working as a Product Owner in ERPWare, a Finnish Odoo partner.",
     url: "https://erpware.fi",
   },
   {
     title: "Bonware",
     description:
-      "I worked as a Managing Consultant in a company Bonware.",
+      "I worked as a Managing Consultant in Bonware, a Finnish Odoo partner.",
     url: "https://www.bonware.com",
   },
   {
     title: "OBS Solutions Finland",
     description:
-      "I worked as a Country CTO in the Finnish branch of OBS Solutions.",
+      "I worked as a Country CTO in the Finnish branch of OBS Solutions, and international Odoo partner.",
     url: "https://www.odoo-bs.com/fi_FI",
   },
   {
     title: "SprintIT",
     description:
-      "I worked as a Techno-Functional Consultand and as a Support Specialist at SprintIT.",
+      "I worked as a Techno-Functional Consultant and as a Support Specialist in SprintIT, a Finnish Odoo partner.",
     url: "https://www.sprintit.fi",
   },
   {
     title: "Cloudeo & Gulfeo",
     description:
-      "I have worked as an entrepreneur in my own company in Finland and Estonia.",
+      "I have worked as an entrepreneur in my own companies in Finland and Estonia.",
     url: "",
   },
 ];
