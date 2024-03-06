@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/garage-3114573_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "garage";
 
 /**
  * Project list
@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ERPWare",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I am working as a Product Owner in a company ERPWare.",
+    url: "https://erpware.fi",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bonware",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I worked as a Managing Consultant in a company Bonware.",
+    url: "https://www.bonware.com",
   },
   {
-    title: "My Resume Site",
+    title: "OBS Solutions Finland",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I worked as a Country CTO in the Finnish branch of OBS Solutions.",
+    url: "https://www.odoo-bs.com/fi_FI",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SprintIT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I worked as a Techno-Functional Consultand and as a Support Specialist at SprintIT.",
+    url: "https://www.sprintit.fi",
+  },
+  {
+    title: "Cloudeo & Gulfeo",
+    description:
+      "I have worked as an entrepreneur in my own company in Finland and Estonia.",
+    url: "",
   },
 ];
 
