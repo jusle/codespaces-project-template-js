@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://jusle.github.io/educator-js-codespace-template'",
+    "build-gh": "parcel build --public-url 'https://jusle.github.io/codespaces-project-template-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -33,6 +33,7 @@
     "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
+    "parcel-bundler": "^1.12.5",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
   }
