@@ -12,7 +12,7 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
 
-import "./styles.css";
+import "./css/styles.css";
 
 /**
  * This object represents your information. The project is set so that you
